@@ -65,7 +65,7 @@ Customer  : Toyota
 Status    : PASSED
 
 ## Simulation
-Run the live simulation here: [Open in Wokwi]((https://wokwi.com/projects/466129664831931393))
+Run the live simulation here: [Open in Wokwi](https://wokwi.com/projects/466129664831931393)
 
 ## Tools Used
 - Arduino IDE / Wokwi simulator
